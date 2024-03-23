@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "author": "Filosofas154",
-  "textures": {
-    "all": "slimefunwarfare:general/ndfeb_alloy_block"
-  }
-}

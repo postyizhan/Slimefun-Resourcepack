@@ -1,0 +1,128 @@
+migrated_slimefun_slimefun_magical_items_magical_book_cover:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: slimefun_slimefun_magical_items_magical_book_cover
+    custom_model_data: 2200049
+migrated_slimefun_slimefun_miscellaneous_steel_plate:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: slimefun_slimefun_miscellaneous_steel_plate
+    custom_model_data: 2200115
+migrated_slimefun_slimefun_miscellaneous_cloth:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: slimefun_slimefun_miscellaneous_cloth
+    custom_model_data: 2200222
+migrated_slimefun_slimefun_items_rag:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: slimefun_slimefun_items_rag
+    custom_model_data: 2200223
+migrated_slimefun_slimefun_items_bandage:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: slimefun_slimefun_items_bandage
+    custom_model_data: 2200224
+migrated_slimefun_slimefun_magical_gadgets_dimensional_scroll:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: slimefun_slimefun_magical_gadgets_dimensional_scroll
+    custom_model_data: 2200310
+migrated_slimefun_slimefun_miscellaneous_reinforced_plate:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: slimefun_slimefun_miscellaneous_reinforced_plate
+    custom_model_data: 2200332
+migrated_slimefun_slimefun_technical_components_plastic_sheet:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: slimefun_slimefun_technical_components_plastic_sheet
+    custom_model_data: 2200385
+migrated_infinityexpansion_materials_machine_plate:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: infinityexpansion_materials_machine_plate
+    custom_model_data: 2200609
+migrated_slimy_tree_taps_materials_raw_plastic:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: slimy_tree_taps_materials_raw_plastic
+    custom_model_data: 2200801
+migrated_litexpansion_materials_advanced_alloy:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: litexpansion_materials_advanced_alloy
+    custom_model_data: 2200810
+migrated_litexpansion_materials_iridium_plate:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: litexpansion_materials_iridium_plate
+    custom_model_data: 2200816
+migrated_bump_magical_items_soul_paper:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: bump_magical_items_soul_paper
+    custom_model_data: 2201414
+migrated_bump_tools_appraisal_paper_armor:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: bump_tools_appraisal_paper_armor
+    custom_model_data: 2201420
+migrated_bump_tools_appraisal_paper_damage:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: bump_tools_appraisal_paper_damage
+    custom_model_data: 2201421
+migrated_item_paper:
+  material: PAPER
+  excludeFromInventory: true
+  excludeFromCommands: true
+  Pack:
+    generate_model: false
+    model: item_paper
+    custom_model_data: 2201422
